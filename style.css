@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+nav{
+display: flex;justify-content: space-between;
+}
+.logo{
+    width: 150px;
+    height: 72.35;
+}
+.nav-list ul{
+    display: flex;
+list-style:none;
+}
